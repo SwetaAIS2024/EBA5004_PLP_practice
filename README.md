@@ -1,1 +1,1 @@
-# EBA5004_PLP_practice
+Just code stuff related to this GC - EBA5004 PLP for practice
